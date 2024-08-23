@@ -1,5 +1,5 @@
 
-#⚙️ Manutenzione in Cloud
+# Manutenzione in Cloud
 
 Manutenzione in Cloud è una soluzione innovativa progettata per le aziende che desiderano ottimizzare il monitoraggio e la gestione dei loro macchinari industriali. La nostra piattaforma offre un controllo in tempo reale e la raccolta di dati storici, consentendo di prendere decisioni informate e migliorare l'efficienza operativa.
 
